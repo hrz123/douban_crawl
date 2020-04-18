@@ -1,7 +1,7 @@
-# crawl_async.py
+# crawl_async_coroutine.py
 
 """
-异步的爬取豆瓣上北京即将上映电影的名称、上映日期和原始海报图片
+异步的爬取豆瓣上北京即将上映电影的名称、上映日期和原始海报图片，使用协程
 """
 import asyncio
 import time

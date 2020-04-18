@@ -1,7 +1,7 @@
 # python_callback.py
 
 """
-用python实现回调函数
+用python实现回调函数，使用协程（python内置asyncio库）
 """
 import asyncio
 import time
